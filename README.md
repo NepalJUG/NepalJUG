@@ -1,2 +1,2 @@
 # NepalJUG
-First Project of Nepal Java User Group (JUG)
+First Project of Nepal Java User Group (Nepal-JUG)
